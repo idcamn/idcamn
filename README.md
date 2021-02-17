@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @idcamn
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently studying at [RS School](https://rs.school/)
+- 📫 How to reach me: [E-Mail](mailto:idcamn@yandex.ru) / [VK](https://vk.com/unknowndev)
